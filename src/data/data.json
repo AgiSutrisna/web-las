@@ -1,15 +1,15 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
+    "title": "Tangguh Estetis",
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Selamat datang di Alza Las Welder, perusahaan penyedia solusi las pagar besi terbaik di Indonesia. Berdiri sejak 2009, kami berkomitmen untuk menyediakan produk berkualitas tinggi yang menggabungkan kekuatan dan estetika dengan harga bersaing.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Kualitas Unggul",
+      "Harga Terjangkau",
+      "Desain Menarik",
+      "Pelayanan Pelanggan Profesional"
     ],
     "Why2": [
       "Aliquip ex ea commodo",
@@ -38,50 +38,50 @@
   "Services": [
     {
       "icon": "fa fa-gavel",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Kuat",
+      "text": "Pagar besi kami dibuat dengan material berkualitas tinggi yang tahan terhadap segala cuaca dan kerusakan. Setiap sambungan las diperkuat untuk memastikan daya tahan maksimal, memberikan Anda ketenangan pikiran dengan pagar yang kokoh dan aman."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-money",
+      "name": "Bersaing",
+      "text": "Kami menawarkan pagar besi dengan harga yang sangat bersaing tanpa mengorbankan kualitas. Dengan efisiensi dalam proses produksi dan bahan baku terbaik, kami memastikan Anda mendapatkan nilai terbaik untuk investasi Anda."
     },
     {
-      "icon": "fa fa-cog",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-diamond",
+      "name": "Estetis",
+      "text": "Pagar besi kami tidak hanya kuat, tetapi juga dirancang dengan estetika yang tinggi. Berbagai pilihan desain tersedia untuk menambah keindahan dan nilai estetika pada properti Anda, menjadikannya lebih menarik dan elegan."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Pagar besi saya kini sangat kuat dan elegan berkat layanan mereka. Hasilnya luar biasa dan sangat memuaskan.\"",
+      "name": "Joko"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Perusahaan ini benar-benar menggabungkan kekuatan dan estetika dalam pagar besi mereka. Sangat direkomendasikan untuk siapa saja.\"",
+      "name": "Rahman"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Pagar besi dari perusahaan ini sangat tangguh dan desainnya sangat menarik. Kualitas yang diberikan benar-benar nomor satu.\"",
+      "name": "Angga"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Slogan mereka tidak berbohong. Pagar besi yang mereka buat kokoh dan memperindah rumah saya. Hasilnya sempurna.\"",
+      "name": "Dewi"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Setelah mencari banyak pilihan, saya menemukan yang terbaik. Pagar besi yang kuat dan estetis dari perusahaan ini benar-benar solusi terbai.\"",
+      "name": "Rangga"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Saya sangat terkesan dengan hasilnya. Pagar besi yang solid dengan desain estetis, benar-benar memenuhi semua harapan saya.\"",
+      "name": "Risma"
     }
   ],
   "Team": [
